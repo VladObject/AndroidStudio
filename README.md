@@ -1,2 +1,1 @@
-# AndroidStudio
-Last version
+This is the latest version of Android Studio
